@@ -1,19 +1,20 @@
 # Movements
 
 ## Mobility
-* World's Greatest Stretch (WGS)
-* Cat-Cow to Thread-the-Needle
-* Cobra to Down-Dog
+* World's Greatest Stretch (WGS) into Active Pigeon Fold
+* Cat-Cow into Thread-the-Needle
+* Cobra into Down-Dog
 * Scorpion
-* Seated Forward Fold to Pike Pulses & Hold 10"
+* Seated Forward Fold into Pike Pulses & Hold 10"
 * 90-90 into Pigeon Fold
 * Deep Squat Sky Reaches into Heel Raises into Knee Drops into Toes-hold Squats
 * Hollow Hold 30"
+* Superman Hold / Arch Body Hold 30"
 * (Side) Plank Hold 30"
 * Dead Bug
 * Kettlebell/Plate Get-Up / Sit-Up
 * Calf & Toe Raises
-* Bridge
+* (Glute) Bridge
 * Wheel
 * Good Morning
 * Jefferson Curls
@@ -56,11 +57,12 @@
 * Situps / V-Ups
 * Wall Ball Shot (WBS)
 * Kettlebell Swing (KBS)
-* Alternate Dumbbell Snatch
-* Double Dumbbell Hang Clean
+* Goblet Squat (Kettlebell or Dumbbell)
+* Alternate Dumbbell Snatch (with one or two Dumbbells)
+* Dumbbell Hang Clean (with one or two Dumbbells)
 * Walking Lunges (Overhead or Suitcase or Bodyweight)
 * Floor Press
-* Devil Press
+* Devil Press (with one or two Dumbbells)
 * Sledge Pull / Push
 * Farmer Carry (FC)
 
@@ -90,8 +92,9 @@
 * Deadlift:
     * Deadlift (DL)
     * Romanian Deadlift (RDL)
-    * High-Pull Deadlift (HPDL)
-    * Sumo Deadlift
+    * Sumo Deadlift (SD)
+    * Sumo Deadlift High-Pull (SDHP)
+    * Good Morning (GM)
 * Bench Press (BP)
 * Thruster
 * Hip Thrust ("Hippies")
@@ -110,13 +113,12 @@
 * Clean-n-Jerk:
     * Hang Clean
     * Hang Power Clean (HPC)
-    * Power Clean
+    * Power Clean (PC)
     * Double Heavy Kettlebells Clean & Jerk
 * Snatch:
     * Snatch
     * Hang Snatch
     * Hang Power Snatch (HPS)
-    * Overhead Snatch (OHS)
 
 # Strength
 * Biceps Curl
